@@ -1,0 +1,48 @@
+.cart_icon-click{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    padding: 2px;
+   
+   
+}
+.smallclose{
+    font-size: 23px;
+}
+.navBarwrapper{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    height: 70px;
+}
+
+.cart-icon{
+    color: #fff;
+     
+}
+.card_details{
+    padding: 10px;
+    width:24rem
+    
+}
+.home-icon{
+    margin-left: 45px;
+}
+
+.text-light{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+.text-light:hover{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: burlywood;
+}
+
+.payment_btn{
+    margin-top: 2px;
+    margin-left: 35px;
+}
+
+.Signup_btn{
+    margin-right: 50px;
+}

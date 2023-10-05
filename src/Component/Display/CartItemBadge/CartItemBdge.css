@@ -1,0 +1,61 @@
+.quantityIcons-mainwrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cartItemImg{
+    width: 120px;
+     height: 120px;
+     margin-top:"30px";
+     margin: 0;
+}
+.cartProduct-details{
+    margin: 0;
+    line-height: 1.8rem;
+    color: black;
+    font-size: 12px;
+}
+.removeFromCartIcon{
+color: red;
+margin: 0;
+    
+     
+}
+.qnt-icons-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.quntity-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid black;
+   font-size: 18px;
+}
+.quntity-count{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    width: 38px;
+    height: 18px;
+   font-size: 18px;
+   border: 1px solid black;
+
+
+}
+.buyNow-btn{
+    width: 120px;
+    font-size: large;
+}
+.cartQnty-total{
+    font-size: 12px;
+}
+.subTotal-wrapper{
+    display: flex;
+}
